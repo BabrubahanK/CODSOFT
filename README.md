@@ -1,1 +1,1 @@
-A small project under Codsoft
+Some project under Codsoft
